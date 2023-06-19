@@ -11,9 +11,8 @@ This repository contains the files to accompany the series of tutorials I wrote 
 <li>SQL Query creation, joins, nested queries, etc</li>
 
 ## Technologies used
-Postgresql
-PopSQL
-Lucidchart
+<li>Postgresql</li>
+<li>Jupyter Notebook</li>
 
 ## Data Sources
 Data was created to populate the database by IBM.
