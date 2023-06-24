@@ -2,7 +2,7 @@
 This Project_Database_Design_and_Implementation examines the essential concepts behind relational databases and Relational Database Management Systems (RDBMS). Here I created database instances and populated them with tables.
 
 ## Status
-ongoing
+Work in progress
 
 ## Introduction
 This repository contains the files to accompany the series of tutorials I wrote which cover designing, implementing and interrogating a relational database from scratch. The code to go with the tutorial is contained in this .SQL file.
